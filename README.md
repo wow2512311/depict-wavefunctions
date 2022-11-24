@@ -9,7 +9,7 @@ graph_dataset.py creates a dataset based on the generated graph.
 
 Model.py contains four models used in the paper.
 
-Train.py controls the training process.
+Train.py controls the training process. (will be uploaded when the article is accepted)
 
 pytorch_msssim calculates the SSIM Loss.
 
