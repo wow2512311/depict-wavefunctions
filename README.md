@@ -1,7 +1,7 @@
 # Depicting wavefunction with graph-based machine learning (Introduction)
 https://github.com/wow2512311/depict-wavefunctions
 
-dataset.7z contains all the data sets.
+dataset.7z contains all the data sets.(will be uploaded when the article is accepted)
 
 cif_to_crystal_graph_jarvis.py creates crystal graphs.
 
