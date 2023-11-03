@@ -23,7 +23,7 @@ from torch.nn import init
 
 class ALIGNNConfig(BaseModel):
     name: Literal["alignn"]
-    alignn_layers: int = 7
+    alignn_layers: int = 4
     atom_input_features: int = 92
     edge_input_features: int = 80
     embedding_features: int = 64
