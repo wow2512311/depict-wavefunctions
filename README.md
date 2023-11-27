@@ -3,7 +3,7 @@
 You can cite the article as:
 Chang, S., et al., Graph machine learning framework for depicting wavefunction on interface. Machine Learning: Science and Technology, 2023.
 
-Chang et al. 2023 Mach. Learn.: Sci. Technol. https://doi.org/10.1088/2632-2153/ad0937
+Ao Wu et al 2023 Mach. Learn.: Sci. Technol. 4 045037 https://doi.org/10.1088/2632-2153/ad0937
 
 https://github.com/wow2512311/depict-wavefunctions
 
